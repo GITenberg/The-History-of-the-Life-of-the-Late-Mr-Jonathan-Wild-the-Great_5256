@@ -1,5 +1,5 @@
 _repo: The-History-of-the-Life-of-the-Late-Mr-Jonathan-Wild-the-Great_5256
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -35,5 +35,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Criminals -- Fiction'
 - !lcsh 'Wild, Jonathan, 1682?-1725 -- Fiction'
+- GITenberg
 title: The History of the Life of the Late Mr. Jonathan Wild the Great
 url: http://www.gutenberg.org/ebooks/5256
